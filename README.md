@@ -1,7 +1,7 @@
 # timekeeper
 Keeps an eye on working hours
 
-I use Tasker on my Android phone to keep my updated on my working hours.
+I use Tasker on my Android phone to keep me updated on my working hours.
 When I arrive I press a widget that writes the specific time to a .txt in my Dropbox and syncs it via DropSync.
 Same goes for break time, end break time, and departure.
 
