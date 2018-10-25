@@ -112,8 +112,3 @@ else:
 file = open('fileWithCurrentFlex', 'w')
 file.write(str(newFlex.hour) + "." + str(newFlex.minute))
 file.close()
-
-## TODO
-# Summera
-# Exportera till fil i dropbox
-# Skicka mail varje fredag när jag checkar ut
