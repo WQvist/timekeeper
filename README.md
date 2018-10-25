@@ -2,7 +2,7 @@
 Keeps an eye on working hours
 
 I use Tasker on my Android phone to keep me updated on my working hours.
-When I arrive I press a widget that writes the specific time to a .txt in my Dropbox and syncs it via DropSync. (I'm contemplating about if I should use 'connected to work WiFi/not' or a NFC chip instead of the widget.)
+When I arrive I press a widget that writes the specific time to a .txt in my Dropbox and syncs it via DropSync. (I'm contemplating about if I should use 'connected to work WiFi/not' or an NFC chip instead of the widget.)
 Same goes for break time, end break time, and departure.
 
 Example file:
