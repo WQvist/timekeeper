@@ -2,7 +2,7 @@
 Keeps an eye on working hours
 
 I use Tasker on my Android phone to keep me updated on my working hours.
-When I arrive I press a widget that writes the specific time to a .txt in my Dropbox and syncs it via DropSync. (I'm contemplating about if I should use 'connected to work WiFi/not' or an NFC chip instead of the widget.)
+When I arrive I press a widget that writes the specific time to a .txt in my Dropbox and syncs it via DropSync. (I'm contemplating if I should use 'connected to work WiFi/not' or an NFC chip instead of the widget.)
 Same goes for break time, end break time, and departure.
 
 Example file:
@@ -21,4 +21,4 @@ Also note the '-' to separate days: The arrival function adds a dash, new line, 
 
 The python script then calculates my 'flex' (which is Swedish for flexible overtime), and writes it to another file in my Dropbox.
 
-In the future I will add a function to send me an email every friday after work to tell me how much flex I have
+In the future I will add a function to send me an email every friday after work to tell me how much flex I have.
